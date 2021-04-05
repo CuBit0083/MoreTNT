@@ -1,0 +1,5 @@
+main: org.cubit.moretnt.MoreTNTCore
+name: MoreTNT
+version: 1.0-SNAPSHOT
+softdepend:
+ - CommandAnnotation
